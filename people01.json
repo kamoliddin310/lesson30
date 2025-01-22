@@ -24,10 +24,10 @@
         "name": "Quinn",
         "age": 50,
         "job": "Artist",
-        "gender": "Female",
+        "gender": "Non-binary",
         "country": "USA"
     },
-    {   
+    {
         "name": "Charlie",
         "age": 38,
         "job": "Engineer",
@@ -38,7 +38,7 @@
         "name": "Paul",
         "age": 38,
         "job": "Designer",
-        "gender": "Female",
+        "gender": "Non-binary",
         "country": "UK"
     },
     {
@@ -80,14 +80,14 @@
         "name": "John",
         "age": 29,
         "job": "Nurse",
-        "gender": "Female",
+        "gender": "Non-binary",
         "country": "Germany"
     },
     {
         "name": "Olivia",
         "age": 57,
         "job": "Scientist",
-        "gender": "Female",
+        "gender": "Non-binary",
         "country": "Germany"
     },
     {
@@ -112,31 +112,108 @@
         "country": "France"
     },
     {
-        "name": "Mia",
-        "age": 24,
-        "job": "Writer",
+        "name": "Eva",
+        "age": 41,
+        "job": "Programmer",
         "gender": "Male",
-        "country": "Germany"
+        "country": "France"
     },
     {
-        "name": "Helen",
-        "age": 44,
-        "job": "Doctor",
-        "gender": "Female",
-        "country": "South Korea"
-    },
-    {
-        "name": "Ivy",
-        "age": 59,
-        "job": "Chef",
-        "gender": "Female",
-        "country": "Canada"
+        "name": "Noah",
+        "age": 20,
+        "job": "Engineer",
+        "gender": "Male",
+        "country": "France"
     },
     {
         "name": "John",
-        "age": 34,
-        "job": "Designer",
+        "age": 43,
+        "job": "Engineer",
+        "gender": "Male",
+        "country": "Brazil"
+    },
+    {
+        "name": "Grace",
+        "age": 41,
+        "job": "Doctor",
         "gender": "Female",
-        "country": "Canada"
+        "country": "Germany"
+    },
+    {
+        "name": "Paul",
+        "age": 49,
+        "job": "Scientist",
+        "gender": "Non-binary",
+        "country": "Japan"
+    },
+    {
+        "name": "Mia",
+        "age": 54,
+        "job": "Designer",
+        "gender": "Male",
+        "country": "USA"
+    },
+    {
+        "name": "Alice",
+        "age": 21,
+        "job": "Designer",
+        "gender": "Male",
+        "country": "UK"
+    },
+    {
+        "name": "Mia",
+        "age": 24,
+        "job": "Nurse",
+        "gender": "Non-binary",
+        "country": "Brazil"
+    },
+    {
+        "name": "Charlie",
+        "age": 35,
+        "job": "Chef",
+        "gender": "Male",
+        "country": "Brazil"
+    },
+    {
+        "name": "Ivy",
+        "age": 32,
+        "job": "Nurse",
+        "gender": "Non-binary",
+        "country": "Australia"
+    },
+    {
+        "name": "Paul",
+        "age": 34,
+        "job": "Writer",
+        "gender": "Non-binary",
+        "country": "South Korea"
+    },
+    {
+        "name": "Alice",
+        "age": 49,
+        "job": "Artist",
+        "gender": "Female",
+        "country": "India"
+    },
+    {
+        "name": "Olivia",
+        "age": 46,
+        "job": "Writer",
+        "gender": "Female",
+        "country": "Australia"
+    },
+    {
+        "name": "Jack",
+        "age": 45,
+        "job": "Nurse",
+        "gender": "Female",
+        "country": "France"
+    },
+    {
+        "name": "Frank",
+        "age": 38,
+        "job": "Engineer",
+        "gender": "Female",
+        "country": "South Korea"
     }
 ]
