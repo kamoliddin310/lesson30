@@ -1,4 +1,6 @@
+# Faylni chaqirib olish
 import json
+# pprint ya'ni fayllarni chiroyli qilib chiqarib beradi
 from pprint import pprint
 # 1. Erkaklar va Ayollar sonini Hisoblab beradi Filter va lamba funksiyasi orqali
 def Hisoblash(w: str, e: str):
@@ -32,7 +34,7 @@ def kasbi(d: str):
     print("\nMuhandislar soni --> ", len(b))
     print("\n")
     pprint(list(a))
-
+# people.json faylni ochib beradi
 f = open('people.json')
 json_data = f.read()
 users_list = json.loads(json_data)
